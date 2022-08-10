@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\bin\Debug\net6.0\comparandoDoisValores.exe
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\bin\Debug\net6.0\comparandoDoisValores.deps.json
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\bin\Debug\net6.0\comparandoDoisValores.runtimeconfig.json
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\bin\Debug\net6.0\comparandoDoisValores.dll
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\bin\Debug\net6.0\comparandoDoisValores.pdb
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.AssemblyInfo.cs
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.dll
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\refint\comparandoDoisValores.dll
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.pdb
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\comparandoDoisValores.genruntimeconfig.cache
+C:\Users\barro\workspace\comparandoValoresInteiros\comparandoDoisValores\comparandoDoisValores\obj\Debug\net6.0\ref\comparandoDoisValores.dll
